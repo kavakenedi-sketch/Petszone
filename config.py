@@ -1,1 +1,1 @@
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Замените на свой токен
+BOT_TOKEN = "8032368469:AAEtiRxNu3gOGT8I7E3-nNvDfrNzE-l7Ej4"  # Замените на свой токен
